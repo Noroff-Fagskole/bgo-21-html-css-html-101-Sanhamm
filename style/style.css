@@ -20,12 +20,13 @@ nav a {
 li { 
 float: left;
 padding: 50px;
-
+text-decoration-style: none;
 
 
 }
 a :visited {
     color: #fff;
+    text-decoration-style: none;
 }
 
 
