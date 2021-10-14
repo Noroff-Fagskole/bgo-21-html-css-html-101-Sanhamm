@@ -17,3 +17,8 @@ a :visited {
 body {
     background-color: #EFEEEE;
 }
+
+ul {
+    list-style-type: none;
+    text-decoration: none;
+}
