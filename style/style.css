@@ -20,6 +20,11 @@ a :visited {
     color: #fff;
 }
 
+.rainylogo img {
+position: absolute;
+margin-top: 15px;
+margin-left: 10px;
+}
 body {
     background-color: #EFEEEE;
 }
