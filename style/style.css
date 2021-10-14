@@ -5,9 +5,11 @@
 nav a {
     color: #fff;
     text-decoration-line: none;
-    list-style-type: none;
 }
 
+ul {
+    list-style-type: none;
+}
 
 a :visited {
     color: #fff;
