@@ -1,6 +1,3 @@
-header .header {
-    background-color: rgb(42, 112,140);
-}
 
 nav a {
     color: #fff;
@@ -8,8 +5,12 @@ nav a {
 
 }
 
-ul {
+.header ul {
     list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+    vertical-align: top;
 }
 
 li { 
