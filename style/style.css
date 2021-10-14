@@ -18,7 +18,7 @@ body {
     background-color: #EFEEEE;
 }
 
-ul .header {
+ul  {
     list-style-type: none;
-    text-decoration: none;
+    text-decoration-line: none;
 }
