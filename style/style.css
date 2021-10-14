@@ -19,6 +19,9 @@ body {
 }
 
 ul a  {
-    list-style-type: none;
     text-decoration-line: none;
+}
+
+ul {
+    text-decoration: none;
 }
