@@ -1,6 +1,6 @@
 header {
     background-color: #2A708C
-    
+
 }
 nav a {
     color: #fff;
@@ -14,12 +14,13 @@ nav a {
     margin: 0px;
     display: inline-block;
     vertical-align: top;
+    text-decoration-style: none;
 }
 
 li { 
 float: left;
 padding: 50px;
-text-decoration-style: none;
+
 
 
 }
