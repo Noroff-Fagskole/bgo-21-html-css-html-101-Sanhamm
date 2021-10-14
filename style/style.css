@@ -4,6 +4,8 @@
 
 nav a {
     color: #fff;
+    text-decoration-line: none;
+    text-decoration-style: none;
 }
 
 a :link {
@@ -18,10 +20,4 @@ body {
     background-color: #EFEEEE;
 }
 
-ul a  {
-    text-decoration-line: none;
-}
 
-ul {
-    text-decoration: none;
-}
