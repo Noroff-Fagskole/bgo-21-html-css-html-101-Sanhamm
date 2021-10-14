@@ -1,7 +1,19 @@
 .header {
     background-color: rgb(42, 112,140);
 }
+
 nav a {
     color: #fff;
+}
 
+a :link {
+color: #fff;
+}
+
+a :visited {
+    color: #fff;
+}
+
+body {
+    background-color: #EFEEEE;
 }
