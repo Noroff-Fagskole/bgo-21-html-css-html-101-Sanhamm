@@ -13,13 +13,15 @@ nav a {
     list-style-type: none;
     padding: 0px;
     margin: 0px;
-    display: inline-block;
+    display: block;
 
 }
 
 li { 
 float: left;
 padding: 50px;
+text-align: center;
+
 
 
 }
