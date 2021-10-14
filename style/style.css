@@ -13,13 +13,13 @@ nav a {
     list-style-type: none;
     padding: 0px;
     margin: 0px;
-    display: block;
+    display: inline-block;
 
 }
 
 li { 
 float: left;
-padding: 25px;
+padding: 50px;
 text-align: center;
 
 
