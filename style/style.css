@@ -15,6 +15,7 @@ nav a {
 
 li { 
 float: left;
+padding: 50px;
 }
 a :visited {
     color: #fff;
