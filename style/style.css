@@ -5,6 +5,13 @@
 nav a {
     color: #fff;
     text-decoration-line: none;
+    width: 100px;
+    display: block;
+    padding: 20px 15px;
+    text-decoration: none;
+    font-family: sawarabi mincho;
+    
+
 }
 
 ul {
@@ -24,7 +31,9 @@ a :visited {
 position: absolute;
 margin-top: 15px;
 margin-left: 10px;
+background-color: rgb(42, 112,140);
 }
+
 body {
     background-color: #EFEEEE;
 }
