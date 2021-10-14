@@ -8,9 +8,6 @@ nav a {
     text-decoration-style: none;
 }
 
-a :link {
-color: #fff;
-}
 
 a :visited {
     color: #fff;
