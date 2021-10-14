@@ -1,4 +1,7 @@
-
+header {
+    background-color: #2A708C
+    
+}
 nav a {
     color: #fff;
 
@@ -16,6 +19,9 @@ nav a {
 li { 
 float: left;
 padding: 50px;
+text-decoration-style: none;
+
+
 }
 a :visited {
     color: #fff;
