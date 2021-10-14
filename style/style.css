@@ -4,6 +4,7 @@ header {
 }
 nav a {
     color: #fff;
+    text-decoration-style: none;
 
 
 }
@@ -14,7 +15,6 @@ nav a {
     margin: 0px;
     display: inline-block;
     vertical-align: top;
-    text-decoration-style: none;
 }
 
 li { 
